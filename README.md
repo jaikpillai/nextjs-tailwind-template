@@ -5,8 +5,6 @@ A template for Next.js app with TailwindCSS and Typescript.
 ## File/Folder structure
 
 - **/components**
-- **/contexts**
-- **/hooks**
 - **/pages**
   - **/api**
   - \_app.tsx
